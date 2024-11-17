@@ -2,4 +2,5 @@ numpy
 pandas 
 # warnings
 matplotlib
-seaborn 
+seaborn
+scikit-learn
