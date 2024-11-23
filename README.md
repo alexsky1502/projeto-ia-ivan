@@ -24,6 +24,10 @@ Qualificação do Pai (Father's Qualification): O nível mais alto de qualifica�
 
 ## Integrantes do grupo
 
-Alex Se Yoon Koo
-Gabriel Novaes
-João Pacheco
+Professor: Ivan Carlos Alcântara de Oliveira
+
+| Aluno    | TIA   | 
+|-------------|-------------|
+| Alex Se Yoon Koo | 10332617 | 
+| Gabriel Novaes | 10341465 | 
+| João Victor Pacheco | 10390689 | 
